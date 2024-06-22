@@ -1,0 +1,22 @@
+Features
+Sales by Product: Breakdown of total sales across different product categories.
+Sales by Month: Monthly sales performance analysis.
+Sales by State: Sales distribution across different states.
+Sales Method Analysis: Comparison of sales through various channels like in-store, online, and outlet.
+Sales by Retailer: Performance metrics for sales through different retailers.
+Dashboard Overview
+The dashboard consolidates data from various sources to provide an at-a-glance view of key sales metrics. The primary datasets included in the analysis are:
+
+Dataset: Detailed sales data including retailer, region, product, price, units sold, total sales, operating profit, and sales method.
+Sales by Product: Aggregated sales data categorized by product types.
+Sales by Month: Monthly aggregated sales figures.
+Sales by State: State-wise sales data.
+Sales Method: Sales figures categorized by different sales methods.
+Sales by Retailer: Sales performance data for individual retailers.
+Data Insights
+High-Performing Products: Identification of top-selling product categories such as men's and women's footwear and apparel.
+Seasonal Trends: Analysis of sales trends across different months to identify peak sales periods.
+Regional Performance: Insights into state-wise sales performance, highlighting key regions contributing to sales.
+Channel Efficiency: Evaluation of sales efficiency across different channels including in-store, online, and outlet.
+Retailer Contribution: Assessment of sales performance for major retailers like Amazon, Foot Locker, Kohl's, Sports Direct, and Walmart.
+This project is a valuable resource for understanding Adidas' sales dynamics, helping stakeholders make informed decisions to drive business growth.
